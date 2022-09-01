@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=MultiChoiceQuestion
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ AnyCorrectChoiceQuestion\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=MultiChoiceQuestion()
+comment2.params=choice
+comment2.target=void\ addChoice(java.lang.String)
+comment3.params=a
+comment3.target=void\ setAnswer(java.lang.String)
+comment4.params=actualAnswer
+comment4.target=boolean\ checkAnswer(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ display()
+numComments=6

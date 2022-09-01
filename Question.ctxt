@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Question
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Question\ here.\r\n\r\n\ @author\ Nikhil\ Dhomse\r\n\ @version\ 7/16/18\r\n
+comment1.params=
+comment1.target=Question()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Question\r\n
+comment2.params=newText
+comment2.target=void\ setText(java.lang.String)
+comment2.text=\ \r\n\ \ \ \ \ \ \ Sets\ the\ text\ for\ the\ question.\r\n\ \ \ \ \ \ \ @param\ newText,\ the\ String\ that\ contains\ the\ question.\r\n
+comment3.params=newAnswer
+comment3.target=void\ setAnswer(java.lang.String)
+comment3.text=\r\n\ Sets\ the\ user's\ answer.\r\n\ @param\ newAnswer,\ the\ user's\ answer.\r\n
+comment4.params=answerChecker
+comment4.target=boolean\ checkAnswer(java.lang.String)
+comment4.text=\r\n\ Compares\ the\ user's\ answer\ to\ the\ correct\ answer\ and\ returns\ true\ \r\n\ if\ correct,\ false\ if\ wrong\r\n\ @param\ answerChecker,\ the\ correct\ answer.\r\n
+comment5.params=q
+comment5.target=void\ addQuestionChoice(java.lang.String)
+comment6.params=q2
+comment6.target=void\ presentQuestion(Question)
+comment7.params=
+comment7.target=java.lang.String\ display()
+numComments=8

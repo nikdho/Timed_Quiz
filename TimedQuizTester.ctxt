@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TimedQuizTester
+comment0.text=\r\n\ This\ class\ creates\ a\ timed\ quiz.\ Basically\ an\ array\ of\ 50\ questions\ is\ made.\ 20\r\n\ are\ randomly\ selected\ and\ displayed\ and\ there\ is\ a\ time\ limit\ of\ one\ minute\ to\ answer\r\n\ as\ many\ questions\ as\ you\ can.\ Score\ will\ be\ displayed\ in\ the\ end\ along\ with\ a\ productive\r\n\ comment.\r\n\r\n\ @author\ Nikhil\ Dhomse\r\n\ @version\ 7/27/18\r\n
+comment1.params=x
+comment1.target=boolean\ isAlreadyAsked(int)
+comment1.text=\r\n\ Checks\ an\ integer\ to\ all\ the\ integers\ of\ an\ arraylist\ to\ make\ sure\r\n\ the\ integer\ isn't\ the\ same\ as\ any\ of\ the\ other\ integers.\r\n\ @param\ x\ the\ integer\ that\ will\ be\ compared.\r\n
+comment2.params=
+comment2.target=void\ fullProgram()
+comment2.text=\r\n\ Contains\ most\ of\ quiz\ code.\ Gets\ a\ text\ file\ and\ uses\ input\ from\ that\ to\ create\r\n\ 50\ question\ objects,\ and\ randomly\ display\ 20\ of\ them\ along\ with\ their\ answers\r\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment3.text=\r\n\ Main\ method,\ creates\ Buttons\ and\ Labels\ in\ GUI\ which\ start\ the\ whole\ program\r\n
+numComments=4
